@@ -1,6 +1,9 @@
 # De Elfenstraal
 Documenten en handleiding voor het maken van de 'Elfenstraal' lantaarn.
 
+![Begin met pootjes lamp lantaarn v30](https://github.com/user-attachments/assets/fd9b59ad-a609-4522-b621-b4b03ad19091)
+
+
 ## Bestanden in deze repo
 
 ### Laser snij bestanden - 2x pdf
