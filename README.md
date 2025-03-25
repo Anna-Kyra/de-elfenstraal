@@ -23,14 +23,8 @@ Print dit bestand twee keer op een ultimaker+ 3D printer. Zorg ervoor dat de sup
 
 ## Handleiding
 ## Foto's
-### 1
-![Afbeelding van WhatsApp op 2025-03-24 om 14 28 59_e410ae21](https://github.com/user-attachments/assets/317516b4-384b-4774-8f0f-229a614e13b3)
+![image](https://github.com/user-attachments/assets/276842c2-91e8-4cf2-8b4d-6db0b10f01ab)
 
-### 2
-![Afbeelding van WhatsApp op 2025-03-24 om 14 28 59_49ab535d](https://github.com/user-attachments/assets/926a676b-f981-49a4-9343-ad89b2419151)
-
-### 3
-![Afbeelding van WhatsApp op 2025-03-24 om 14 29 01_f2421b2e](https://github.com/user-attachments/assets/508fb76b-b8b6-4550-93a3-a7dae64f258e)
 
 ## Pdf
 ![image](https://github.com/user-attachments/assets/a475b7d7-5965-4762-99b9-a43e103aa58b)
